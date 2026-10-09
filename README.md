@@ -144,20 +144,6 @@ To return the case toward its pre-run state:
 
 ---
 
-## Case Provenance
-
-The CFD model was developed under the original working designation:
-
-```text
-CoolantChannel_7.0
-```
-
-The public archive is named `CoolantChannel.zip`.
-
-The repository preserves the reproducible case inputs, meshes, scripts, and documentation while omitting the multi-gigabyte collection of generated processor directories, timestep histories, and post-processing output from the original HPC runs.
-
----
-
 ## Thesis and Errata
 
 The included thesis documents the archival reconstruction, numerical formulation, material properties, boundary conditions, power-distribution reconstruction, experimental comparison, and model limitations.
