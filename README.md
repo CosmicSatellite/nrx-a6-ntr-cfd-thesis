@@ -11,7 +11,7 @@ This repository contains the principal technical artifacts from the thesis, incl
 
 - `CAD.zip` — reconstructed NERVA/NRX-A-series fuel-cluster CAD.
 - `CoolantChannel.zip` — OpenFOAM v13 multi-region CFD/CHT case.
-- `*_inch_unvs.zip` — alternative `.unv` mesh sets.
+- `*_inch_unvs.zip` — alternative `.unv` mesh sets with different axial resolutions.
 - Thesis PDF — methodology, assumptions, results, and limitations.
 - ERRATA — corrections to the Thesis PDF since the official submission.
 
