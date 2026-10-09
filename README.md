@@ -1,7 +1,7 @@
 # CFD Simulation of Hydrogen Propellant Flow in Nuclear Thermal Propulsion Reactor Cores
 
 **Thomas A. P. Gattiker**  
-ETH Zürich / Paul Scherrer Institute
+ETH Zürich / PSI LRT
 
 CFD and CAD reconstruction of a NERVA/NRX-A6 nuclear thermal propulsion reactor fuel cluster.
 
