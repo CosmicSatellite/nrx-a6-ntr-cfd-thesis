@@ -1,0 +1,43 @@
+ERRATA FOR REVISION 3
+
+Abstract: Changed characterization from “detailed validation study” to “detailed demonstration.”
+
+Chapter 1: Corrected grammatical error “during towards the end” → “towards the end.”
+
+Section 2.1.1: Minor formatting correction to improve separation of the analysis-method categories.
+
+Section 2.4: Clarified heading to “Overview of the Project Workflow”.
+
+Section 3.1: Reformatting of the Momentum Predictor box in fig. 3.1
+
+Section 3.2.2.2: Corrected citation formatting for equations 15.67 and 15.68 in Ref. [22].
+
+Section 3.2.5: Corrected grammatical wording and c_p & c_v inconsistency in the solid-region energy equations; corrected the equation reference used for the support-region reduction.
+
+Section 4.2: Corrected wording concerning the pyrolytic graphite sleeve and added the source for the tie-rod and surrounding hardware radii from WANL-TNR-209, Table B-1 on page B-6.
+
+Figure 5.5(d): Corrected caption wording.
+
+Section 5.4.1: Corrected c_p to c_v in the fuel-region heat-conduction discussion and added the missing “tab.” reference to Table 5.2.
+
+Table 5.3: Corrected and completed units and notation for thermal conductivity and its deviation.
+
+Table 5.4: Caption corrected to "coolant" instead of "fuel"
+
+Section 5.5.3.7: Improved wording for clarity and added the missing average temperature T_avg = 1314 K to Eq. 5.22.
+
+Figure 6.5: Corrected density-graph caption.
+
+Section 6.5 / Table 6.4: Corrected mathematical formatting of Q̇, turbulent viscosity, turbulent thermal diffusivity, and associated units.
+
+Conclusion: Corrected formatting of “very-high-temperature CHT.”
+
+Appendix B.1: Corrected the title of the source document Westinghouse Astronuclear Laboratory Contribution to the 27th High Temperature Fuels Committee Meeting.
+
+Appendix B: Added the missing Rankine uncertainty for the cluster-temperature range, 4360 ± 175 °R.
+
+Appendix C.1: Minor grammatical clarification of the technical-drawing designation wording.
+
+References: Reference authorship fixed and completed where possible; author formatting standardized. Corrected WANL-TNR-209 report designation. Additionally, the formatting of "\parencite" instances was improved. 
+
+Overall: A number of miscellaneous typographic corrections
