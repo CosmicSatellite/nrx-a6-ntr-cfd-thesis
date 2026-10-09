@@ -13,7 +13,7 @@ This repository contains the principal technical artifacts from the thesis, incl
 - `CoolantChannel.zip` — OpenFOAM v13 multi-region CFD/CHT case.
 - `*_inch_unvs.zip` — alternative `.unv` mesh sets.
 - Thesis PDF — methodology, assumptions, results, and limitations.
-- ERRATA — corrections to the Thesis PDF since the official submission
+- ERRATA — corrections to the Thesis PDF since the official submission.
 
 ---
 
