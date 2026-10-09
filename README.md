@@ -167,3 +167,7 @@ The included thesis documents the archival reconstruction, numerical formulation
 The work should be interpreted as a **research reconstruction and thesis-scale numerical study**. Historical documentation is incomplete in places, and some geometry and model inputs therefore required reconstruction or inference.
 
 For detailed methodology and limitations, refer to the thesis.
+
+## Citation
+
+If using material from this repository in academic or technical work, please cite the thesis and identify the repository as the accompanying CAD/CFD reconstruction archive.
