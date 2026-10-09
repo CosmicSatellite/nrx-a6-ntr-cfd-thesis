@@ -9,15 +9,30 @@ CAD reconstruction & CFD simulation of a NERVA/NRX-A6 nuclear thermal propulsion
 
 This repository contains the principal technical artifacts from the thesis, including reconstructed CAD geometry, OpenFOAM CFD/CHT case files, alternative computational meshes, the thesis PDF, and errata.
 
+- Thesis PDF — methodology, assumptions, results, and limitations.
+- ERRATA — corrections to the Thesis PDF since the official submission.
 - `CAD.zip` — reconstructed NERVA/NRX-A-series fuel-cluster CAD.
 - `CoolantChannel.zip` — OpenFOAM v13 multi-region CFD/CHT case.
 - `*_inch_unvs.zip` — alternative `.unv` mesh sets with different axial resolutions.
-- Thesis PDF — methodology, assumptions, results, and limitations.
-- ERRATA — corrections to the Thesis PDF since the official submission.
 
 ---
 
-## CAD Files
+## Thesis — Licence: CC BY 4.0
+
+The included thesis documents the archival reconstruction, numerical formulation, material properties, boundary conditions, power-distribution reconstruction, experimental comparison, and model limitations.
+
+`ERRATA for Revision 3.txt` records identified corrections separately so that the historical thesis document itself remains unchanged.
+
+The work should be interpreted as a **research reconstruction and thesis-scale numerical study**. Historical documentation is incomplete in places, and some geometry and model inputs therefore required reconstruction or inference.
+
+For detailed methodology and limitations, refer to the thesis.
+
+## Citation
+
+If using material from this repository in academic or technical work, please cite the thesis and identify the repository as the accompanying CAD/CFD reconstruction archive.
+---
+
+## CAD Files — Licence: CERN-OHL-P-2.0
 
 `CAD.zip` contains reconstructed geometry of a late NERVA/NRX-A-series fuel cluster.
 
@@ -44,7 +59,7 @@ See the thesis and appendices for the reconstruction basis, assumptions, and lim
 
 ---
 
-## OpenFOAM CFD Case
+## OpenFOAM CFD Case — Licence: MIT
 
 `CoolantChannel.zip` contains the **OpenFOAM v13** case used for the thesis simulations.
 
@@ -144,16 +159,4 @@ To return the case toward its pre-run state:
 
 ---
 
-## Thesis and Errata
 
-The included thesis documents the archival reconstruction, numerical formulation, material properties, boundary conditions, power-distribution reconstruction, experimental comparison, and model limitations.
-
-`ERRATA for Revision 3.txt` records identified corrections separately so that the historical thesis document itself remains unchanged.
-
-The work should be interpreted as a **research reconstruction and thesis-scale numerical study**. Historical documentation is incomplete in places, and some geometry and model inputs therefore required reconstruction or inference.
-
-For detailed methodology and limitations, refer to the thesis.
-
-## Citation
-
-If using material from this repository in academic or technical work, please cite the thesis and identify the repository as the accompanying CAD/CFD reconstruction archive.
