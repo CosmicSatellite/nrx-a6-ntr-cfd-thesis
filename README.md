@@ -5,15 +5,13 @@ for ETH Zürich / PSI LRT, with special gratitude going to **Dr Ezequiel O. Fogl
 
 CAD reconstruction & CFD simulation of a NERVA/NRX-A6 nuclear thermal propulsion reactor fuel cluster.
 
-**OpenFOAM v13 · CFD · Conjugate Heat Transfer · Supercritical Hydrogen · Nuclear Thermal Propulsion · NERVA · NRX-A6 · FreeCAD · SALOME/Gmsh · ParaView**
-
-This repository contains the principal technical artifacts from the thesis, including reconstructed CAD geometry, OpenFOAM CFD/CHT case files, alternative computational meshes, the thesis PDF, and errata.
+This repository contains the following technical artifacts from the thesis:
 
 - Thesis PDF — methodology, assumptions, results, and limitations.
 - Errata — corrections to the Thesis PDF since the official submission.
 - Presentation PDF — Original slides from defence presentation.
 - `CAD.zip` — reconstructed late NERVA/NRX-A-series (skirtless NRX-A6) fuel-cluster CAD.
-- `CoolantChannel.zip` — OpenFOAM v13 multi-region CFD/CHT case for a single channel.
+- `CoolantChannel.zip` — OpenFOAM v13 multi-region CFD/CHT case for a single equivalent channel.
 - `*_inch_unvs.zip` — alternative `.unv` mesh sets with different axial resolutions.
 
 ---
@@ -69,6 +67,8 @@ See the thesis and appendices for the reconstruction basis, assumptions, and lim
 `CoolantChannel.zip` contains the **OpenFOAM v13** case used for the thesis simulations.
 
 The model couples compressible hydrogen flow with heat conduction in the surrounding solid regions using a multi-region conjugate heat-transfer formulation.
+
+The axial power profile is by default scaled for the center of the reactor.
 
 Large mesh inputs are supplied separately rather than embedded in the case archive.
 
