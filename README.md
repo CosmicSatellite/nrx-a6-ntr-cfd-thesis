@@ -10,7 +10,7 @@ CAD reconstruction & CFD simulation of a NERVA/NRX-A6 nuclear thermal propulsion
 This repository contains the principal technical artifacts from the thesis, including reconstructed CAD geometry, OpenFOAM CFD/CHT case files, alternative computational meshes, the thesis PDF, and errata.
 
 - Thesis PDF — methodology, assumptions, results, and limitations.
-- ERRATA — corrections to the Thesis PDF since the official submission.
+- Errata — corrections to the Thesis PDF since the official submission.
 - Presentation PDF — Original slides from defence presentation.
 - `CAD.zip` — reconstructed late NERVA/NRX-A-series (skirtless NRX-A6) fuel-cluster CAD.
 - `CoolantChannel.zip` — OpenFOAM v13 multi-region CFD/CHT case for a single channel.
