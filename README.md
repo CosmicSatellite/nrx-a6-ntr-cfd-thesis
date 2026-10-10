@@ -22,19 +22,21 @@ This repository contains the principal technical artifacts from the thesis, incl
 
 The included thesis documents the archival reconstruction, numerical formulation, material properties, boundary conditions, power-distribution reconstruction, experimental comparison, and model limitations.
 
+Third-party figures, photographs, and archival source material remain subject to their respective rights and are not covered by the repository's open licences.
+
 `ERRATA for Revision 3.txt` records identified corrections separately so that the historical thesis document itself remains unchanged.
 
 The work should be interpreted as a **research reconstruction and thesis-scale numerical study**. Historical documentation is incomplete in places, and some geometry and model inputs therefore required reconstruction or inference.
 
 For detailed methodology and limitations, refer to the thesis.
 
+### Presentation — Licence: CC BY 4.0
+
+The accompanying thesis defence presentation provides a condensed overview of the project's motivation, historical NRX-A6 reactor reconstruction, OpenFOAM v13 modelling workflow, and preliminary validation results. Particular attention is given to the provenance and limitations of historical material-property data, axial and radial power-distribution modelling, computational mesh constraints, and discrepancies between numerical predictions and experimental measurements. The presentation is preserved as an archival record of the original defence and may be read as a brief visual introduction to this project.
+
 ### Citation
 
 If using material from this repository in academic or technical work, please cite the thesis and identify the repository as the accompanying CAD/CFD reconstruction archive.
-
-### Presentation
-
-The accompanying thesis defence presentation provides a condensed overview of the project's motivation, historical NRX-A6 reactor reconstruction, OpenFOAM v13 modelling workflow, and preliminary validation results. Particular attention is given to the provenance and limitations of historical material-property data, axial and radial power-distribution modelling, computational mesh constraints, and discrepancies between numerical predictions and experimental measurements. The presentation is preserved as an archival record of the original defence and may be read as a brief introduction to this project.
 
 ---
 
