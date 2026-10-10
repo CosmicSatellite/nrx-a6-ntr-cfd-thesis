@@ -70,7 +70,8 @@ Large mesh inputs are supplied separately rather than embedded in the case archi
 
 ### Mesh Sets
 
-Three alternative mesh sets are provided, each is identified by the number of partitions of a single inch of axial length:
+Three alternative mesh sets are provided. Their names indicate the number of axial subdivisions per inch of physical length. For example, 20th_inch corresponds to 20 axial intervals per inch, 
+i.e. a spacing of 0.05 in (1.27 mm). The .unv coordinates are stored in millimetres and are converted to metres during preprocessing by Allpre.
 
 ```text
 16th_inch_unvs.zip
