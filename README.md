@@ -70,7 +70,7 @@ Large mesh inputs are supplied separately rather than embedded in the case archi
 
 ### Mesh Sets
 
-Three alternative mesh sets are provided:
+Three alternative mesh sets are provided, each is identified by the number of partitions of a single inch of axial length:
 
 ```text
 16th_inch_unvs.zip
