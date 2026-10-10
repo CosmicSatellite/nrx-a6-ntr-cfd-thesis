@@ -23,6 +23,7 @@ This repository contains the principal technical artifacts from the thesis, incl
 The included thesis documents the archival reconstruction, numerical formulation, material properties, boundary conditions, power-distribution reconstruction, experimental comparison, and model limitations.
 
 Third-party figures, photographs, and archival source material remain subject to their respective rights and are not covered by the repository's open licences.
+
 Historical source material includes declassified Westinghouse documentation available through the University of North Texas Digital Library:
 https://digital.library.unt.edu
 
