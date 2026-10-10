@@ -12,7 +12,7 @@ This repository contains the principal technical artifacts from the thesis, incl
 - Thesis PDF — methodology, assumptions, results, and limitations.
 - ERRATA — corrections to the Thesis PDF since the official submission.
 - Presentation PDF — Original slides from defence presentation.
-- `CAD.zip` — reconstructed NERVA/NRX-A-series fuel-cluster CAD.
+- `CAD.zip` — reconstructed late NERVA/NRX-A-series (skirtless NRX-A6) fuel-cluster CAD.
 - `CoolantChannel.zip` — OpenFOAM v13 multi-region CFD/CHT case for a single channel.
 - `*_inch_unvs.zip` — alternative `.unv` mesh sets with different axial resolutions.
 
@@ -23,6 +23,8 @@ This repository contains the principal technical artifacts from the thesis, incl
 The included thesis documents the archival reconstruction, numerical formulation, material properties, boundary conditions, power-distribution reconstruction, experimental comparison, and model limitations.
 
 Third-party figures, photographs, and archival source material remain subject to their respective rights and are not covered by the repository's open licences.
+Historical source material includes declassified Westinghouse documentation available through the University of North Texas Digital Library:
+https://digital.library.unt.edu
 
 `ERRATA for Revision 3.txt` records identified corrections separately so that the historical thesis document itself remains unchanged.
 
@@ -42,13 +44,7 @@ If using material from this repository in academic or technical work, please cit
 
 ## CAD Files — Licence: CERN-OHL-P-2.0
 
-`CAD.zip` contains reconstructed geometry of a late NERVA/NRX-A-series fuel cluster.
-
 The models were created in **FreeCAD** from historical technical drawings, reports, photographs, dimensional information, and other archival documentation. They are **research reconstructions**, not original Westinghouse or Los Alamos CAD files.
-
-Historical source material includes declassified Westinghouse documentation available through the University of North Texas Digital Library:
-
-https://digital.library.unt.edu
 
 ### CAD File Formats
 
