@@ -27,12 +27,13 @@ The work should be interpreted as a **research reconstruction and thesis-scale n
 
 For detailed methodology and limitations, refer to the thesis.
 
-## Citation
+### Citation
 
 If using material from this repository in academic or technical work, please cite the thesis and identify the repository as the accompanying CAD/CFD reconstruction archive.
 
+### Presentation
+The accompanying thesis defence presentation provides a condensed overview of the project's motivation, historical NRX-A6 reactor reconstruction, OpenFOAM v13 modelling workflow, and preliminary validation results. Particular attention is given to the provenance and limitations of historical material-property data, axial and radial power-distribution modelling, computational mesh constraints, and discrepancies between numerical predictions and experimental measurements. The presentation is preserved as an archival record of the original defence and may be read as a brief introduction on what this project is about.
 ---
-
 ## CAD Files — Licence: CERN-OHL-P-2.0
 
 `CAD.zip` contains reconstructed geometry of a late NERVA/NRX-A-series fuel cluster.
